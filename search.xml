@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>my second blog</title>
-      <link href="/2024/08/15/my-second-blog/"/>
-      <url>/2024/08/15/my-second-blog/</url>
-      
-        <content type="html"><![CDATA[<h3 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world!"></a>hello world!</h3>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>来自卷王的greeting(❁´◡`❁)</title>
       <link href="/2024/08/15/my-first-blog/"/>
       <url>/2024/08/15/my-first-blog/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span>(<span class="params"></span>)&#123;</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">  <span class="variable language_">console</span>.<span class="title function_">log</span>(a)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="I-love-cs"><a href="#I-love-cs" class="headerlink" title="I love cs"></a>I love cs</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><p>Hello, 小伙伴们大家好，我是江月，英文名是Edward。我是一位英专生…(＃°Д°)…是的你没有看错，博主2023年毕业于西安一所高校的英语专业。在本科期间，我一共获得了6项国家级荣誉、4项省级荣誉以及20余项校级&#x2F;院级荣誉。</p><h2 id="我与计算机"><a href="#我与计算机" class="headerlink" title="我与计算机"></a>我与计算机</h2><p>我从小一直对计算机这类事物很感兴趣，本科毕业后，我决定自学转专业到计算机。截至今日，我已经自学近一年了。从最开始的通过各种途径了解计算机课程体系，自学C语言和高数，到中间深入学习408四件套，补充学习了线代以及Python、Java等主流后端语言的语法，再到前段时间的前端三件套、node.js和vue框架……</p><h2 id="不切实际or艺高人胆大？"><a href="#不切实际or艺高人胆大？" class="headerlink" title="不切实际or艺高人胆大？"></a>不切实际or艺高人胆大？</h2><p>本科阶段取得的一些小小成绩让我自认为能 “make it rain in the desert”. 但刚开始自学CS时，我遇到的困难像海一般向我涌来：购买新电脑、配置开发环境、摸索学习路线……那时我连alt+tab快捷键都不知道，网课中老师切一下屏，我就蒙了。最开始的那一个月，我每天都在怀疑人生中度过，觉得我跨的不是专业，是雅鲁藏布大峡谷。╥﹏╥…</p><h2 id="焦虑和展望"><a href="#焦虑和展望" class="headerlink" title="焦虑和展望"></a>焦虑和展望</h2><p>截至本篇博客发表，我依然还在探索未来的学习路线，坦白讲心中是有一点焦虑的。虽然父母支持我的行动，每月继续汇给我生活费，但我肯定希望能尽早达到就业门槛，并且有机会进大厂。为此，我在自学过程中始终对标大厂招聘要求，不愿降低自己的学习深度。在未来的一年里，我会继续补充自身技术栈，同时谋求事业或学历上的提升。</p><h2 id="关于此博客"><a href="#关于此博客" class="headerlink" title="关于此博客"></a>关于此博客</h2><p>为了记录自己在计算机学习中的收获，同时为以后的求职面试做准备，我特意创建本博客网站用以收录和发表一些关于计算机的技术文章。如果有时间，我还会新建一个英语学习方法的板块来分享我的 English learning experience.</p><h2 id="网站升级"><a href="#网站升级" class="headerlink" title="网站升级"></a>网站升级</h2><p>目前网站刚刚搭建不久，主题外观和功能都还很不完善，后面我会持续更新网站的基础功能和样式布局。</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>感谢您的关注，我是自学编程的江月，期待和你一起进步！o(〃＾▽＾〃)o</p>]]></content>
       
       
       
